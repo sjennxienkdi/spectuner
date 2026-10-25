@@ -1,0 +1,1 @@
+{"run_id":"w3_A6p","mode":"static_triton","dataset":"random","concurrency":"1 16 64","ts":"2026-10-25T04:04:44Z","json_files":3,"results_dir":"results/w3_A6p","gpu":"GPU-e2173d7e-770f-1def-1313-a0107db2c934, 71, 282.12"}

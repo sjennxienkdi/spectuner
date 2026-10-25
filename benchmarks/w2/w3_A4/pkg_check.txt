@@ -1,0 +1,2 @@
+vllm pkg: /root/autodl-tmp/venv/lib/python3.12/site-packages/vllm_adaptive/__init__.py
+GPU-e2173d7e-770f-1def-1313-a0107db2c934, 62, 54.74 W

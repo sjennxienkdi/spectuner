@@ -1,0 +1,20 @@
+[project]
+name = "spectuner"
+version = "0.1.0"
+description = "SpecTuner：推测解码配置探测定档器（15 分钟出 vLLM speculative 配置 + 依据报告）"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+dependencies = []          # MVP 纯标准库：云端/本地零安装即可跑
+
+[project.scripts]
+spectuner = "spectuner.cli:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["spectuner*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

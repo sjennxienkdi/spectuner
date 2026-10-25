@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "/root/autodl-tmp/bench/./sanity_check.py", line 57, in <module>
+    main()
+  File "/root/autodl-tmp/bench/./sanity_check.py", line 47, in main
+    out = generate(args.base, prompt)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/bench/./sanity_check.py", line 37, in generate
+    with urllib.request.urlopen(req, timeout=600) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found

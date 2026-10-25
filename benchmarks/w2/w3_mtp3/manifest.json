@@ -1,0 +1,5 @@
+{"run_id":"w3_mtp3","ts_start":"2026-10-25T03:56:30Z","ts_end":"2026-10-25T04:00:19Z","exit_code":0,
+ "config":{"QUANT":"fp8","SPEC":"mtp3","ASYNC":"on","REASONING":"on","DATASET":"random","KV_DTYPE":"","VLLM_L1_SD":"","VLLM_L1_MAX_SPEC_BATCH":"","VLLM_STAGEB_OUT":"/root/autodl-tmp/stageb_w3/mtp3.jsonl","VLLM_TIMING_OUT":"/root/autodl-tmp/timing_w3/mtp3.jsonl","EXTRA_ARGS":""},
+ "workload":{"dataset":"random","input_len":2048,"output_len":256,"seed":0,"w2_file":"/root/autodl-tmp/bench/w2_sharegpt.json"},
+ "gpu":{"uuid":"GPU-e2173d7e-770f-1def-1313-a0107db2c934","temp_c":"62","power_w":"267.49","mem_mb":"94199","driver":"580.82.09"},
+ "vllm_version":"0.32.0","vllm_pkg":"/root/autodl-tmp/venv/lib/python3.12/site-packages/vllm.stock/__init__.py","results_dir":"results/w3_mtp3","json_files":3,"note":""}
