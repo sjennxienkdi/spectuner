@@ -109,6 +109,11 @@ total throughput 当解码性能的坑，见 B1 博客）。
 | 4090 魔改 48G（INT4，cu129 构建*） | **K=1 仅+8%** | 关投机 | 关投机 | benchmarks/4090 |
 | 5090D 32G（INT4） | MTP K=3 +23.1%（DSpark 锚点仅 +12.9%） | **关投机（DSpark 雪崩 −95%）** | 关投机 | benchmarks/5090d |
 
+**负载分层（重要）**：上表"关投机"结论均来自 random 2K/256 负载。
+真实内容短输入负载（sharegpt 来源 90 条，见 benchmarks/w2/w2c_agg.md）下结论反转：
+MTP3 c64 = 基线 1.686×（TPOT 21.9 vs 36.5ms，TTFT 中位仅 +62ms）。
+投机收益高度依赖负载构成——先确认你的负载像哪一种。
+
 三个跨硬件实证：PRO 6000 上的单流之王 INT4 配方在 4090 上几乎无利可图；
 DSpark drafter 在 32G 消费卡 c16+ 排队熔断（TTFT 飙至 167-748s）；4090 饱和时
 投机解码的形态变为"吞吐 −11% 换 TPOT 3.2×"（per-user 延迟救人）。
