@@ -1,0 +1,102 @@
+Found existing installation: vllm 0.32.0
+Uninstalling vllm-0.32.0:
+  Successfully uninstalled vllm-0.32.0
+Found existing installation: torchvision 0.28.0
+Uninstalling torchvision-0.28.0:
+  Successfully uninstalled torchvision-0.28.0
+Found existing installation: torchaudio 2.11.0
+Uninstalling torchaudio-2.11.0:
+  Successfully uninstalled torchaudio-2.11.0
+Found existing installation: torchcodec 0.17.0
+Uninstalling torchcodec-0.17.0:
+  Successfully uninstalled torchcodec-0.17.0
+Looking in indexes: https://download.pytorch.org/whl/cu129
+Collecting torch==2.13.0+cu129
+  Downloading https://download-r2.pytorch.org/whl/cu129/torch-2.13.0%2Bcu129-cp311-cp311-manylinux_2_28_x86_64.whl.metadata (38 kB)
+Requirement already satisfied: filelock in /hy-tmp/venv/lib/python3.11/site-packages (from torch==2.13.0+cu129) (4.2.4)
+Requirement already satisfied: typing-extensions>=4.10.0 in /hy-tmp/venv/lib/python3.11/site-packages (from torch==2.13.0+cu129) (4.16.0)
+Requirement already satisfied: setuptools>=77.0.3 in /hy-tmp/venv/lib/python3.11/site-packages (from torch==2.13.0+cu129) (79.0.1)
+Requirement already satisfied: sympy>=1.13.3 in /hy-tmp/venv/lib/python3.11/site-packages (from torch==2.13.0+cu129) (1.14.0)
+Requirement already satisfied: networkx>=2.5.1 in /hy-tmp/venv/lib/python3.11/site-packages (from torch==2.13.0+cu129) (3.6.1)
+Requirement already satisfied: jinja2 in /hy-tmp/venv/lib/python3.11/site-packages (from torch==2.13.0+cu129) (3.1.6)
+Requirement already satisfied: fsspec>=0.8.5 in /hy-tmp/venv/lib/python3.11/site-packages (from torch==2.13.0+cu129) (2026.9.0)
+Collecting cuda-toolkit==12.9.1 (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/cuda-toolkit/cuda_toolkit-12.9.1-py2.py3-none-any.whl (2.3 kB)
+Collecting cuda-bindings<13,>=12.9.4 (from torch==2.13.0+cu129)
+  Downloading cuda_bindings-12.9.7-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl.metadata (2.6 kB)
+Collecting nvidia-cudnn-cu12==9.20.0.48 (from torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-cudnn-cu12/nvidia_cudnn_cu12-9.20.0.48-py3-none-manylinux_2_27_x86_64.whl (657.9 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 657.9/657.9 MB 5.4 MB/s eta 0:00:00
+Collecting nvidia-cusparselt-cu12==0.8.1 (from torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-cusparselt-cu12/nvidia_cusparselt_cu12-0.8.1-py3-none-manylinux2014_x86_64.whl (239.3 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 239.3/239.3 MB 9.0 MB/s eta 0:00:00
+Collecting nvidia-nccl-cu12==2.29.7 (from torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-nccl-cu12/nvidia_nccl_cu12-2.29.7-py3-none-manylinux_2_18_x86_64.whl (293.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 293.6/293.6 MB 8.0 MB/s eta 0:00:00
+Collecting nvidia-nvshmem-cu12==3.4.5 (from torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-nvshmem-cu12/nvidia_nvshmem_cu12-3.4.5-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (139.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 139.1/139.1 MB 13.7 MB/s eta 0:00:00
+Requirement already satisfied: triton==3.7.1 in /hy-tmp/venv/lib/python3.11/site-packages (from torch==2.13.0+cu129) (3.7.1)
+Collecting nvidia-cublas-cu12==12.9.1.4.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-cublas-cu12/nvidia_cublas_cu12-12.9.1.4-py3-none-manylinux_2_27_x86_64.whl (581.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 581.2/581.2 MB 5.7 MB/s eta 0:00:00
+Collecting nvidia-cuda-runtime-cu12==12.9.79.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-cuda-runtime-cu12/nvidia_cuda_runtime_cu12-12.9.79-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (3.5 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.5/3.5 MB 38.1 MB/s eta 0:00:00
+Collecting nvidia-cufft-cu12==11.4.1.4.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-cufft-cu12/nvidia_cufft_cu12-11.4.1.4-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (200.9 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 200.9/200.9 MB 5.0 MB/s eta 0:00:00
+Collecting nvidia-cufile-cu12==1.14.1.1.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-cufile-cu12/nvidia_cufile_cu12-1.14.1.1-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (1.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 22.4 MB/s eta 0:00:00
+Collecting nvidia-cuda-cupti-cu12==12.9.79.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-cuda-cupti-cu12/nvidia_cuda_cupti_cu12-12.9.79-py3-none-manylinux_2_25_x86_64.whl (10.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.8/10.8 MB 25.9 MB/s eta 0:00:00
+Collecting nvidia-curand-cu12==10.3.10.19.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-curand-cu12/nvidia_curand_cu12-10.3.10.19-py3-none-manylinux_2_27_x86_64.whl (68.3 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 68.3/68.3 MB 8.9 MB/s eta 0:00:00
+Collecting nvidia-cusolver-cu12==11.7.5.82.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-cusolver-cu12/nvidia_cusolver_cu12-11.7.5.82-py3-none-manylinux_2_27_x86_64.whl (338.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 338.1/338.1 MB 6.3 MB/s eta 0:00:00
+Collecting nvidia-cusparse-cu12==12.5.10.65.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-cusparse-cu12/nvidia_cusparse_cu12-12.5.10.65-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (366.5 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 366.5/366.5 MB 9.2 MB/s eta 0:00:00
+Collecting nvidia-nvjitlink-cu12==12.9.86.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-nvjitlink-cu12/nvidia_nvjitlink_cu12-12.9.86-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl (39.7 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 39.7/39.7 MB 59.9 MB/s eta 0:00:00
+Collecting nvidia-cuda-nvrtc-cu12==12.9.86.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-cuda-nvrtc-cu12/nvidia_cuda_nvrtc_cu12-12.9.86-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl (89.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 89.6/89.6 MB 9.1 MB/s eta 0:00:00
+Collecting nvidia-nvtx-cu12==12.9.79.* (from cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==12.9.1; platform_system == "Linux"->torch==2.13.0+cu129)
+  Downloading https://pypi.nvidia.com/nvidia-nvtx-cu12/nvidia_nvtx_cu12-12.9.79-py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl (85 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 85.5/85.5 kB 6.7 MB/s eta 0:00:00
+Requirement already satisfied: cuda-pathfinder~=1.1 in /hy-tmp/venv/lib/python3.11/site-packages (from cuda-bindings<13,>=12.9.4->torch==2.13.0+cu129) (1.8.4)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in /hy-tmp/venv/lib/python3.11/site-packages (from sympy>=1.13.3->torch==2.13.0+cu129) (1.3.0)
+Requirement already satisfied: MarkupSafe>=2.0 in /hy-tmp/venv/lib/python3.11/site-packages (from jinja2->torch==2.13.0+cu129) (3.0.4)
+Downloading https://download-r2.pytorch.org/whl/cu129/torch-2.13.0%2Bcu129-cp311-cp311-manylinux_2_28_x86_64.whl (929.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 929.6/929.6 MB 2.3 MB/s eta 0:00:00
+Downloading cuda_bindings-12.9.7-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl (7.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.6/7.6 MB 17.9 kB/s eta 0:00:00
+Installing collected packages: nvidia-cusparselt-cu12, cuda-toolkit, nvidia-nvtx-cu12, nvidia-nvshmem-cu12, nvidia-nvjitlink-cu12, nvidia-nccl-cu12, nvidia-curand-cu12, nvidia-cufile-cu12, nvidia-cuda-runtime-cu12, nvidia-cuda-nvrtc-cu12, nvidia-cuda-cupti-cu12, nvidia-cublas-cu12, cuda-bindings, nvidia-cusparse-cu12, nvidia-cufft-cu12, nvidia-cudnn-cu12, nvidia-cusolver-cu12, torch
+  Attempting uninstall: cuda-toolkit
+    Found existing installation: cuda-toolkit 13.0.3.0
+    Uninstalling cuda-toolkit-13.0.3.0:
+      Successfully uninstalled cuda-toolkit-13.0.3.0
+  Attempting uninstall: cuda-bindings
+    Found existing installation: cuda-bindings 13.4.4
+    Uninstalling cuda-bindings-13.4.4:
+      Successfully uninstalled cuda-bindings-13.4.4
+  Attempting uninstall: torch
+    Found existing installation: torch 2.13.0
+    Uninstalling torch-2.13.0:
+      Successfully uninstalled torch-2.13.0
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+cuda-python 13.4.4 requires cuda-bindings~=13.4.4, but you have cuda-bindings 12.9.7 which is incompatible.
+Successfully installed cuda-bindings-12.9.7 cuda-toolkit-12.9.1 nvidia-cublas-cu12-12.9.1.4 nvidia-cuda-cupti-cu12-12.9.79 nvidia-cuda-nvrtc-cu12-12.9.86 nvidia-cuda-runtime-cu12-12.9.79 nvidia-cudnn-cu12-9.20.0.48 nvidia-cufft-cu12-11.4.1.4 nvidia-cufile-cu12-1.14.1.1 nvidia-curand-cu12-10.3.10.19 nvidia-cusolver-cu12-11.7.5.82 nvidia-cusparse-cu12-12.5.10.65 nvidia-cusparselt-cu12-0.8.1 nvidia-nccl-cu12-2.29.7 nvidia-nvjitlink-cu12-12.9.86 nvidia-nvshmem-cu12-3.4.5 nvidia-nvtx-cu12-12.9.79 torch-2.13.0+cu129
+
+[notice] A new release of pip is available: 24.0 -> 26.2.2
+[notice] To update, run: python3 -m pip install --upgrade pip
+ERROR: vllm_cu129.whl is not a valid wheel filename.
+
+[notice] A new release of pip is available: 24.0 -> 26.2.2
+[notice] To update, run: python3 -m pip install --upgrade pip

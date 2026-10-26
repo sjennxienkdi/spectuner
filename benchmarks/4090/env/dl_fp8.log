@@ -1,0 +1,1187 @@
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+0c946d|OK  |   1.0MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/LICENSE
+
+Status Legend:
+(OK):download completed.
+[OK] LICENSE
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+de1b47|OK  |   1.5MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/README.md
+
+Status Legend:
+(OK):download completed.
+[OK] README.md
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+dc2f80|OK  |   0.9MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/chat_template.jinja
+
+Status Legend:
+(OK):download completed.
+[OK] chat_template.jinja
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+4d20f6|OK  |   1.4MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/config.json
+
+Status Legend:
+(OK):download completed.
+[OK] config.json
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+8c0563|OK  |   3.1KiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/configuration.json
+
+Status Legend:
+(OK):download completed.
+[OK] configuration.json
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+2ec312|OK  |   263KiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/crc32.txt
+
+Status Legend:
+(OK):download completed.
+[OK] crc32.txt
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+9c0f82|OK  |    21KiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/generation_config.json
+
+Status Legend:
+(OK):download completed.
+[OK] generation_config.json
+[#ef7155 40MiB/366MiB(11%) CN:16 DL:59MiB ETA:5s]
+[#ef7155 103MiB/366MiB(28%) CN:16 DL:60MiB ETA:4s]
+[#ef7155 136MiB/366MiB(37%) CN:16 DL:49MiB ETA:4s]
+[#ef7155 221MiB/366MiB(60%) CN:16 DL:59MiB ETA:2s]
+[#ef7155 321MiB/366MiB(87%) CN:16 DL:67MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+ef7155|OK  |    70MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-0.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-0.safetensors
+[#30bb56 50MiB/366MiB(13%) CN:16 DL:68MiB ETA:4s]
+[#30bb56 95MiB/366MiB(25%) CN:16 DL:50MiB ETA:5s]
+[#30bb56 144MiB/366MiB(39%) CN:16 DL:49MiB ETA:4s]
+[#30bb56 248MiB/366MiB(67%) CN:16 DL:63MiB ETA:1s]
+[#30bb56 354MiB/366MiB(96%) CN:16 DL:72MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+30bb56|OK  |    73MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-1.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-1.safetensors
+[#c0fb5d 43MiB/366MiB(11%) CN:16 DL:65MiB ETA:4s]
+[#c0fb5d 79MiB/366MiB(21%) CN:16 DL:47MiB ETA:6s]
+[#c0fb5d 119MiB/366MiB(32%) CN:16 DL:45MiB ETA:5s]
+[#c0fb5d 222MiB/366MiB(60%) CN:16 DL:61MiB ETA:2s]
+[#c0fb5d 329MiB/366MiB(90%) CN:16 DL:71MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+c0fb5d|OK  |    72MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-10.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-10.safetensors
+[#a627ec 35MiB/355MiB(9%) CN:16 DL:48MiB ETA:6s]
+[#a627ec 62MiB/355MiB(17%) CN:16 DL:34MiB ETA:8s]
+[#a627ec 132MiB/355MiB(37%) CN:16 DL:47MiB ETA:4s]
+[#a627ec 240MiB/355MiB(67%) CN:16 DL:63MiB ETA:1s]
+[#a627ec 346MiB/355MiB(97%) CN:16 DL:72MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+a627ec|OK  |    72MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-11.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-11.safetensors
+[#35dac5 42MiB/366MiB(11%) CN:16 DL:51MiB ETA:6s]
+[#35dac5 66MiB/366MiB(18%) CN:16 DL:33MiB ETA:8s]
+[#35dac5 150MiB/366MiB(40%) CN:16 DL:50MiB ETA:4s]
+[#35dac5 252MiB/366MiB(69%) CN:16 DL:64MiB ETA:1s]
+[#35dac5 360MiB/366MiB(98%) CN:13 DL:72MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+35dac5|OK  |    71MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-12.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-12.safetensors
+[#ddcfee 17MiB/366MiB(4%) CN:16 DL:23MiB ETA:14s]
+[#ddcfee 47MiB/366MiB(12%) CN:16 DL:27MiB ETA:11s]
+[#ddcfee 130MiB/366MiB(35%) CN:16 DL:47MiB ETA:4s]
+[#ddcfee 237MiB/366MiB(64%) CN:16 DL:63MiB ETA:2s]
+[#ddcfee 344MiB/366MiB(94%) CN:16 DL:73MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+ddcfee|OK  |    71MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-13.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-13.safetensors
+[#fc4d60 8.5MiB/366MiB(2%) CN:16 DL:14MiB ETA:24s]
+[#fc4d60 52MiB/366MiB(14%) CN:16 DL:32MiB ETA:9s]
+[#fc4d60 143MiB/366MiB(39%) CN:16 DL:55MiB ETA:4s]
+[#fc4d60 250MiB/366MiB(68%) CN:16 DL:70MiB ETA:1s]
+[#fc4d60 344MiB/366MiB(94%) CN:16 DL:74MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+fc4d60|OK  |    75MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-14.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-14.safetensors
+[#9d4cce 17MiB/355MiB(4%) CN:16 DL:23MiB ETA:14s]
+[#9d4cce 97MiB/355MiB(27%) CN:16 DL:56MiB ETA:4s]
+[#9d4cce 205MiB/355MiB(57%) CN:16 DL:75MiB ETA:1s]
+[#9d4cce 312MiB/355MiB(88%) CN:16 DL:84MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+9d4cce|OK  |    82MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-15.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-15.safetensors
+[#2da91b 13MiB/366MiB(3%) CN:16 DL:22MiB ETA:15s]
+[#2da91b 62MiB/366MiB(17%) CN:16 DL:39MiB ETA:7s]
+[#2da91b 146MiB/366MiB(39%) CN:16 DL:56MiB ETA:3s]
+[#2da91b 252MiB/366MiB(69%) CN:16 DL:70MiB ETA:1s]
+[#2da91b 341MiB/366MiB(93%) CN:16 DL:74MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+2da91b|OK  |    74MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-16.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-16.safetensors
+[#1db705 2.8MiB/366MiB(0%) CN:16 DL:8.2MiB ETA:43s]
+[#1db705 85MiB/366MiB(23%) CN:16 DL:64MiB ETA:4s]
+[#1db705 193MiB/366MiB(52%) CN:16 DL:83MiB ETA:2s]
+[#1db705 300MiB/366MiB(82%) CN:16 DL:90MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+1db705|OK  |    87MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-17.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-17.safetensors
+[#f01d0c 0.9MiB/366MiB(0%) CN:16 DL:2.1MiB ETA:2m48s]
+[#f01d0c 54MiB/366MiB(14%) CN:16 DL:36MiB ETA:8s]
+[#f01d0c 149MiB/366MiB(40%) CN:16 DL:60MiB ETA:3s]
+[#f01d0c 257MiB/366MiB(70%) CN:16 DL:74MiB ETA:1s]
+[#f01d0c 341MiB/366MiB(93%) CN:16 DL:76MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+f01d0c|OK  |    70MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-18.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-18.safetensors
+[#d69861 19MiB/355MiB(5%) CN:16 DL:40MiB ETA:8s]
+[#d69861 116MiB/355MiB(32%) CN:16 DL:78MiB ETA:3s]
+[#d69861 222MiB/355MiB(62%) CN:16 DL:90MiB ETA:1s]
+[#d69861 313MiB/355MiB(88%) CN:16 DL:90MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+d69861|OK  |    88MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-19.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-19.safetensors
+[#51d10c 6.4MiB/366MiB(1%) CN:16 DL:13MiB ETA:25s]
+[#51d10c 56MiB/366MiB(15%) CN:16 DL:39MiB ETA:7s]
+[#51d10c 157MiB/366MiB(43%) CN:16 DL:64MiB ETA:3s]
+[#51d10c 257MiB/366MiB(70%) CN:16 DL:74MiB ETA:1s]
+[#51d10c 308MiB/366MiB(84%) CN:16 DL:69MiB]
+[#51d10c 331MiB/366MiB(90%) CN:16 DL:60MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+51d10c|OK  |    59MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-2.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-2.safetensors
+[#f6772d 72MiB/366MiB(19%) CN:16 DL:95MiB ETA:3s]
+[#f6772d 180MiB/366MiB(49%) CN:16 DL:103MiB ETA:1s]
+[#f6772d 252MiB/366MiB(69%) CN:16 DL:92MiB ETA:1s]
+[#f6772d 294MiB/366MiB(80%) CN:16 DL:77MiB]
+[#f6772d 333MiB/366MiB(91%) CN:16 DL:69MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+f6772d|OK  |    68MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-20.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-20.safetensors
+[#e60868 61MiB/366MiB(16%) CN:16 DL:89MiB ETA:3s]
+[#e60868 154MiB/366MiB(42%) CN:16 DL:89MiB ETA:2s]
+[#e60868 194MiB/366MiB(53%) CN:16 DL:71MiB ETA:2s]
+[#e60868 229MiB/366MiB(62%) CN:16 DL:59MiB ETA:2s]
+[#e60868 302MiB/366MiB(82%) CN:16 DL:61MiB ETA:1s]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+e60868|OK  |    66MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-21.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-21.safetensors
+[#9eae78 73MiB/366MiB(20%) CN:16 DL:95MiB ETA:3s]
+[#9eae78 142MiB/366MiB(39%) CN:16 DL:81MiB ETA:2s]
+[#9eae78 169MiB/366MiB(46%) CN:16 DL:61MiB ETA:3s]
+[#9eae78 250MiB/366MiB(68%) CN:16 DL:67MiB ETA:1s]
+[#9eae78 348MiB/366MiB(95%) CN:15 DL:73MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+9eae78|OK  |    74MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-22.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-22.safetensors
+[#194001 67MiB/355MiB(19%) CN:16 DL:96MiB ETA:2s]
+[#194001 137MiB/355MiB(38%) CN:16 DL:74MiB ETA:2s]
+[#194001 165MiB/355MiB(46%) CN:16 DL:56MiB ETA:3s]
+[#194001 227MiB/355MiB(63%) CN:16 DL:58MiB ETA:2s]
+[#194001 328MiB/355MiB(92%) CN:16 DL:67MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+194001|OK  |    68MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-23.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-23.safetensors
+[#49fec3 71MiB/366MiB(19%) CN:16 DL:94MiB ETA:3s]
+[#49fec3 129MiB/366MiB(35%) CN:16 DL:73MiB ETA:3s]
+[#49fec3 178MiB/366MiB(48%) CN:16 DL:62MiB ETA:3s]
+[#49fec3 239MiB/366MiB(65%) CN:16 DL:62MiB ETA:2s]
+[#49fec3 321MiB/366MiB(87%) CN:16 DL:66MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+49fec3|OK  |    69MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-24.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-24.safetensors
+[#e64c21 46MiB/366MiB(12%) CN:16 DL:60MiB ETA:5s]
+[#e64c21 69MiB/366MiB(19%) CN:16 DL:39MiB ETA:7s]
+[#e64c21 101MiB/366MiB(27%) CN:16 DL:36MiB ETA:7s]
+[#e64c21 163MiB/366MiB(44%) CN:16 DL:43MiB ETA:4s]
+[#e64c21 249MiB/366MiB(68%) CN:16 DL:52MiB ETA:2s]
+[#e64c21 325MiB/366MiB(88%) CN:16 DL:56MiB]
+[#e64c21 364MiB/366MiB(99%) CN:7 DL:54MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+e64c21|OK  |    51MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-25.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-25.safetensors
+[#18d9ef 29MiB/366MiB(8%) CN:16 DL:42MiB ETA:7s]
+[#18d9ef 96MiB/366MiB(26%) CN:16 DL:56MiB ETA:4s]
+[#18d9ef 166MiB/366MiB(45%) CN:16 DL:62MiB ETA:3s]
+[#18d9ef 222MiB/366MiB(60%) CN:16 DL:60MiB ETA:2s]
+[#18d9ef 245MiB/366MiB(67%) CN:16 DL:52MiB ETA:2s]
+[#18d9ef 275MiB/366MiB(75%) CN:16 DL:48MiB ETA:1s]
+[#18d9ef 358MiB/366MiB(98%) CN:15 DL:53MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+18d9ef|OK  |    54MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-26.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-26.safetensors
+[#4989ae 61MiB/355MiB(17%) CN:16 DL:88MiB ETA:3s]
+[#4989ae 134MiB/355MiB(37%) CN:16 DL:80MiB ETA:2s]
+[#4989ae 183MiB/355MiB(51%) CN:16 DL:66MiB ETA:2s]
+[#4989ae 222MiB/355MiB(62%) CN:16 DL:56MiB ETA:2s]
+[#4989ae 321MiB/355MiB(90%) CN:16 DL:65MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+4989ae|OK  |    67MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-27.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-27.safetensors
+[#279e8e 44MiB/366MiB(12%) CN:16 DL:57MiB ETA:5s]
+[#279e8e 110MiB/366MiB(30%) CN:16 DL:62MiB ETA:4s]
+[#279e8e 146MiB/366MiB(39%) CN:16 DL:50MiB ETA:4s]
+[#279e8e 181MiB/366MiB(49%) CN:16 DL:46MiB ETA:3s]
+[#279e8e 286MiB/366MiB(78%) CN:16 DL:58MiB ETA:1s]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+279e8e|OK  |    64MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-28.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-28.safetensors
+[#92529e 39MiB/366MiB(10%) CN:16 DL:58MiB ETA:5s]
+[#92529e 77MiB/366MiB(21%) CN:16 DL:46MiB ETA:6s]
+[#92529e 108MiB/366MiB(29%) CN:16 DL:40MiB ETA:6s]
+[#92529e 206MiB/366MiB(56%) CN:16 DL:56MiB ETA:2s]
+[#92529e 309MiB/366MiB(84%) CN:16 DL:66MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+92529e|OK  |    68MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-29.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-29.safetensors
+[#ab0684 32MiB/355MiB(9%) CN:16 DL:47MiB ETA:6s]
+[#ab0684 60MiB/355MiB(17%) CN:16 DL:36MiB ETA:8s]
+[#ab0684 116MiB/355MiB(32%) CN:16 DL:43MiB ETA:5s]
+[#ab0684 218MiB/355MiB(61%) CN:16 DL:59MiB ETA:2s]
+[#ab0684 293MiB/355MiB(82%) CN:16 DL:63MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+ab0684|OK  |    63MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-3.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-3.safetensors
+[#12c63b 6.6MiB/366MiB(1%) CN:16 DL:11MiB ETA:30s]
+[#12c63b 112MiB/366MiB(30%) CN:16 DL:72MiB ETA:3s]
+[#12c63b 217MiB/366MiB(59%) CN:16 DL:85MiB ETA:1s]
+[#12c63b 288MiB/366MiB(78%) CN:16 DL:81MiB]
+[#12c63b 365MiB/366MiB(99%) CN:4 DL:80MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+12c63b|OK  |    80MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-30.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-30.safetensors
+[#0c8eba 32MiB/355MiB(9%) CN:16 DL:83MiB ETA:3s]
+[#0c8eba 137MiB/355MiB(38%) CN:16 DL:99MiB ETA:2s]
+[#0c8eba 212MiB/355MiB(59%) CN:16 DL:88MiB ETA:1s]
+[#0c8eba 284MiB/355MiB(80%) CN:16 DL:83MiB]
+[#0c8eba 341MiB/355MiB(96%) CN:15 DL:74MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+0c8eba|OK  |    72MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-31.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-31.safetensors
+[#9ab99c 56MiB/366MiB(15%) CN:16 DL:77MiB ETA:3s]
+[#9ab99c 122MiB/366MiB(33%) CN:16 DL:68MiB ETA:3s]
+[#9ab99c 204MiB/366MiB(55%) CN:16 DL:73MiB ETA:2s]
+[#9ab99c 273MiB/366MiB(74%) CN:16 DL:70MiB ETA:1s]
+[#9ab99c 311MiB/366MiB(85%) CN:16 DL:62MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+9ab99c|OK  |    65MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-32.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-32.safetensors
+[#649068 60MiB/366MiB(16%) CN:16 DL:82MiB ETA:3s]
+[#649068 135MiB/366MiB(36%) CN:16 DL:78MiB ETA:2s]
+[#649068 211MiB/366MiB(57%) CN:16 DL:77MiB ETA:1s]
+[#649068 249MiB/366MiB(68%) CN:16 DL:67MiB ETA:1s]
+[#649068 318MiB/366MiB(86%) CN:16 DL:67MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+649068|OK  |    70MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-33.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-33.safetensors
+[#4c6a73 51MiB/366MiB(14%) CN:16 DL:64MiB ETA:4s]
+[#4c6a73 124MiB/366MiB(34%) CN:16 DL:69MiB ETA:3s]
+[#4c6a73 201MiB/366MiB(55%) CN:16 DL:72MiB ETA:2s]
+[#4c6a73 245MiB/366MiB(66%) CN:16 DL:65MiB ETA:1s]
+[#4c6a73 307MiB/366MiB(84%) CN:16 DL:64MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+4c6a73|OK  |    65MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-34.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-34.safetensors
+[#4edf32 0B/0B CN:1 DL:0B]
+[#4edf32 20MiB/355MiB(5%) CN:16 DL:51MiB ETA:6s]
+[#4edf32 68MiB/355MiB(19%) CN:16 DL:47MiB ETA:5s]
+[#4edf32 108MiB/355MiB(30%) CN:16 DL:44MiB ETA:5s]
+[#4edf32 182MiB/355MiB(51%) CN:16 DL:53MiB ETA:3s]
+[#4edf32 233MiB/355MiB(65%) CN:16 DL:52MiB ETA:2s]
+[#4edf32 284MiB/355MiB(80%) CN:16 DL:52MiB ETA:1s]
+[#4edf32 339MiB/355MiB(95%) CN:16 DL:53MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+4edf32|OK  |    48MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-35.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-35.safetensors
+[#f875c1 42MiB/366MiB(11%) CN:16 DL:65MiB ETA:4s]
+[#f875c1 118MiB/366MiB(32%) CN:16 DL:71MiB ETA:3s]
+[#f875c1 185MiB/366MiB(50%) CN:16 DL:70MiB ETA:2s]
+[#f875c1 270MiB/366MiB(73%) CN:16 DL:74MiB ETA:1s]
+[#f875c1 290MiB/366MiB(79%) CN:16 DL:62MiB ETA:1s]
+[#f875c1 354MiB/366MiB(96%) CN:16 DL:63MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+f875c1|OK  |    62MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-36.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-36.safetensors
+[#6f9dd0 41MiB/366MiB(11%) CN:16 DL:57MiB ETA:5s]
+[#6f9dd0 105MiB/366MiB(28%) CN:16 DL:61MiB ETA:4s]
+[#6f9dd0 189MiB/366MiB(51%) CN:16 DL:69MiB ETA:2s]
+[#6f9dd0 218MiB/366MiB(59%) CN:16 DL:59MiB ETA:2s]
+[#6f9dd0 289MiB/366MiB(78%) CN:16 DL:61MiB ETA:1s]
+[#6f9dd0 361MiB/366MiB(98%) CN:12 DL:63MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+6f9dd0|OK  |    63MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-37.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-37.safetensors
+[#9548c6 25MiB/366MiB(6%) CN:16 DL:45MiB ETA:7s]
+[#9548c6 95MiB/366MiB(26%) CN:16 DL:61MiB ETA:4s]
+[#9548c6 119MiB/366MiB(32%) CN:16 DL:46MiB ETA:5s]
+[#9548c6 194MiB/366MiB(53%) CN:16 DL:55MiB ETA:3s]
+[#9548c6 263MiB/366MiB(71%) CN:16 DL:58MiB ETA:1s]
+[#9548c6 331MiB/366MiB(90%) CN:15 DL:60MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+9548c6|OK  |    60MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-38.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-38.safetensors
+[#fe4603 23MiB/355MiB(6%) CN:16 DL:31MiB ETA:10s]
+[#fe4603 53MiB/355MiB(14%) CN:16 DL:30MiB ETA:9s]
+[#fe4603 139MiB/355MiB(39%) CN:16 DL:50MiB ETA:4s]
+[#fe4603 210MiB/355MiB(59%) CN:16 DL:56MiB ETA:2s]
+[#fe4603 279MiB/355MiB(78%) CN:16 DL:59MiB ETA:1s]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+fe4603|OK  |    64MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-39.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-39.safetensors
+[#c730fa 0B/0B CN:1 DL:0B]
+[#c730fa 61MiB/366MiB(16%) CN:16 DL:68MiB ETA:4s]
+[#c730fa 124MiB/366MiB(34%) CN:16 DL:65MiB ETA:3s]
+[#c730fa 197MiB/366MiB(54%) CN:16 DL:68MiB ETA:2s]
+[#c730fa 275MiB/366MiB(75%) CN:16 DL:71MiB ETA:1s]
+[#c730fa 323MiB/366MiB(88%) CN:16 DL:66MiB]
+[#c730fa 356MiB/366MiB(97%) CN:16 DL:60MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+c730fa|OK  |    60MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-4.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-4.safetensors
+[#94037a 19MiB/366MiB(5%) CN:16 DL:44MiB ETA:7s]
+[#94037a 86MiB/366MiB(23%) CN:16 DL:60MiB ETA:4s]
+[#94037a 177MiB/366MiB(48%) CN:16 DL:73MiB ETA:2s]
+[#94037a 216MiB/366MiB(59%) CN:16 DL:63MiB ETA:2s]
+[#94037a 260MiB/366MiB(71%) CN:16 DL:59MiB ETA:1s]
+[#94037a 332MiB/366MiB(90%) CN:16 DL:61MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+94037a|OK  |    61MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-40.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-40.safetensors
+[#9bc1a7 61MiB/366MiB(16%) CN:16 DL:84MiB ETA:3s]
+[#9bc1a7 168MiB/366MiB(45%) CN:16 DL:97MiB ETA:2s]
+[#9bc1a7 205MiB/366MiB(56%) CN:16 DL:75MiB ETA:2s]
+[#9bc1a7 254MiB/366MiB(69%) CN:16 DL:68MiB ETA:1s]
+[#9bc1a7 329MiB/366MiB(89%) CN:16 DL:70MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+9bc1a7|OK  |    69MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-41.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-41.safetensors
+[#6eeada 62MiB/366MiB(17%) CN:16 DL:86MiB ETA:3s]
+[#6eeada 121MiB/366MiB(33%) CN:16 DL:69MiB ETA:3s]
+[#6eeada 149MiB/366MiB(40%) CN:16 DL:54MiB ETA:3s]
+[#6eeada 223MiB/366MiB(61%) CN:16 DL:60MiB ETA:2s]
+[#6eeada 295MiB/366MiB(80%) CN:16 DL:62MiB ETA:1s]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+6eeada|OK  |    67MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-42.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-42.safetensors
+[#f77352 40MiB/355MiB(11%) CN:16 DL:56MiB ETA:5s]
+[#f77352 66MiB/355MiB(18%) CN:16 DL:37MiB ETA:7s]
+[#f77352 109MiB/355MiB(30%) CN:16 DL:39MiB ETA:6s]
+[#f77352 160MiB/355MiB(45%) CN:16 DL:42MiB ETA:4s]
+[#f77352 222MiB/355MiB(62%) CN:16 DL:46MiB ETA:2s]
+[#f77352 288MiB/355MiB(81%) CN:16 DL:50MiB ETA:1s]
+[#f77352 327MiB/355MiB(92%) CN:16 DL:48MiB]
+[#f77352 354MiB/355MiB(99%) CN:3 DL:45MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+f77352|OK  |    44MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-43.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-43.safetensors
+[#6b85dc 33MiB/366MiB(9%) CN:16 DL:48MiB ETA:6s]
+[#6b85dc 96MiB/366MiB(26%) CN:16 DL:57MiB ETA:4s]
+[#6b85dc 203MiB/366MiB(55%) CN:16 DL:75MiB ETA:2s]
+[#6b85dc 263MiB/366MiB(72%) CN:16 DL:71MiB ETA:1s]
+[#6b85dc 300MiB/366MiB(82%) CN:16 DL:64MiB ETA:1s]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+6b85dc|OK  |    65MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-44.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-44.safetensors
+[#f5faca 67MiB/366MiB(18%) CN:16 DL:88MiB ETA:3s]
+[#f5faca 158MiB/366MiB(43%) CN:16 DL:90MiB ETA:2s]
+[#f5faca 195MiB/366MiB(53%) CN:16 DL:70MiB ETA:2s]
+[#f5faca 212MiB/366MiB(58%) CN:16 DL:56MiB ETA:2s]
+[#f5faca 278MiB/366MiB(76%) CN:16 DL:58MiB ETA:1s]
+[#f5faca 342MiB/366MiB(93%) CN:16 DL:59MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+f5faca|OK  |    59MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-45.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-45.safetensors
+[#d8d08c 39MiB/366MiB(10%) CN:16 DL:49MiB ETA:6s]
+[#d8d08c 65MiB/366MiB(18%) CN:16 DL:37MiB ETA:8s]
+[#d8d08c 108MiB/366MiB(29%) CN:16 DL:38MiB ETA:6s]
+[#d8d08c 175MiB/366MiB(47%) CN:16 DL:45MiB ETA:4s]
+[#d8d08c 254MiB/366MiB(69%) CN:16 DL:52MiB ETA:2s]
+[#d8d08c 350MiB/366MiB(95%) CN:15 DL:60MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+d8d08c|OK  |    61MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-46.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-46.safetensors
+[#e0d490 0B/0B CN:1 DL:0B]
+[#e0d490 0B/0B CN:1 DL:0B]
+[#e0d490 0B/0B CN:1 DL:0B]
+[#e0d490 0B/0B CN:1 DL:0B]
+[#e0d490 0B/0B CN:1 DL:0B]
+[#e0d490 2.0MiB/355MiB(0%) CN:16 DL:3.8MiB ETA:1m30s]
+[#e0d490 21MiB/355MiB(6%) CN:16 DL:14MiB ETA:23s]
+[#e0d490 62MiB/355MiB(17%) CN:16 DL:24MiB ETA:11s]
+[#e0d490 128MiB/355MiB(36%) CN:16 DL:36MiB ETA:6s]
+[#e0d490 169MiB/355MiB(47%) CN:16 DL:37MiB ETA:4s]
+[#e0d490 178MiB/355MiB(50%) CN:16 DL:32MiB ETA:5s]
+[#e0d490 205MiB/355MiB(57%) CN:16 DL:31MiB ETA:4s]
+[#e0d490 243MiB/355MiB(68%) CN:16 DL:32MiB ETA:3s]
+[#e0d490 319MiB/355MiB(90%) CN:16 DL:37MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+e0d490|OK  |    39MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-47.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-47.safetensors
+[#36a242 10MiB/366MiB(2%) CN:16 DL:22MiB ETA:15s]
+[#36a242 32MiB/366MiB(8%) CN:16 DL:22MiB ETA:14s]
+[#36a242 94MiB/366MiB(25%) CN:16 DL:38MiB ETA:7s]
+[#36a242 161MiB/366MiB(44%) CN:16 DL:47MiB ETA:4s]
+[#36a242 252MiB/366MiB(69%) CN:16 DL:57MiB ETA:1s]
+[#36a242 300MiB/366MiB(82%) CN:16 DL:54MiB ETA:1s]
+[#36a242 331MiB/366MiB(90%) CN:16 DL:50MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+36a242|OK  |    50MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-48.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-48.safetensors
+[#ed7052 38MiB/366MiB(10%) CN:16 DL:59MiB ETA:5s]
+[#ed7052 117MiB/366MiB(32%) CN:16 DL:71MiB ETA:3s]
+[#ed7052 149MiB/366MiB(40%) CN:16 DL:55MiB ETA:3s]
+[#ed7052 177MiB/366MiB(48%) CN:16 DL:47MiB ETA:3s]
+[#ed7052 236MiB/366MiB(64%) CN:16 DL:50MiB ETA:2s]
+[#ed7052 313MiB/366MiB(85%) CN:16 DL:55MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+ed7052|OK  |    58MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-49.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-49.safetensors
+[#f80af1 43MiB/366MiB(12%) CN:16 DL:59MiB ETA:5s]
+[#f80af1 66MiB/366MiB(18%) CN:16 DL:38MiB ETA:7s]
+[#f80af1 98MiB/366MiB(26%) CN:16 DL:36MiB ETA:7s]
+[#f80af1 164MiB/366MiB(45%) CN:16 DL:44MiB ETA:4s]
+[#f80af1 232MiB/366MiB(63%) CN:16 DL:49MiB ETA:2s]
+[#f80af1 326MiB/366MiB(89%) CN:16 DL:57MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+f80af1|OK  |    56MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-5.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-5.safetensors
+[#f42e6e 7.1MiB/366MiB(1%) CN:16 DL:29MiB ETA:12s]
+[#f42e6e 80MiB/366MiB(21%) CN:16 DL:65MiB ETA:4s]
+[#f42e6e 155MiB/366MiB(42%) CN:16 DL:69MiB ETA:3s]
+[#f42e6e 253MiB/366MiB(69%) CN:16 DL:78MiB ETA:1s]
+[#f42e6e 346MiB/366MiB(94%) CN:16 DL:80MiB]
+[#f42e6e 365MiB/366MiB(99%) CN:4 DL:67MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+f42e6e|OK  |    66MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-50.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-50.safetensors
+[#44a4bd 32MiB/355MiB(9%) CN:16 DL:57MiB ETA:5s]
+[#44a4bd 99MiB/355MiB(28%) CN:16 DL:64MiB ETA:3s]
+[#44a4bd 176MiB/355MiB(49%) CN:16 DL:69MiB ETA:2s]
+[#44a4bd 183MiB/355MiB(51%) CN:16 DL:51MiB ETA:3s]
+[#44a4bd 228MiB/355MiB(64%) CN:16 DL:49MiB ETA:2s]
+[#44a4bd 297MiB/355MiB(83%) CN:16 DL:53MiB ETA:1s]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+44a4bd|OK  |    55MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-51.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-51.safetensors
+[#7facf0 45MiB/366MiB(12%) CN:16 DL:60MiB ETA:5s]
+[#7facf0 81MiB/366MiB(22%) CN:16 DL:44MiB ETA:6s]
+[#7facf0 111MiB/366MiB(30%) CN:16 DL:39MiB ETA:6s]
+[#7facf0 177MiB/366MiB(48%) CN:16 DL:46MiB ETA:4s]
+[#7facf0 249MiB/366MiB(68%) CN:16 DL:52MiB ETA:2s]
+[#7facf0 341MiB/366MiB(93%) CN:16 DL:59MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+7facf0|OK  |    60MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-52.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-52.safetensors
+[#9c50ff 15MiB/366MiB(4%) CN:16 DL:19MiB ETA:17s]
+[#9c50ff 54MiB/366MiB(14%) CN:16 DL:30MiB ETA:10s]
+[#9c50ff 106MiB/366MiB(29%) CN:16 DL:38MiB ETA:6s]
+[#9c50ff 171MiB/366MiB(46%) CN:16 DL:45MiB ETA:4s]
+[#9c50ff 244MiB/366MiB(66%) CN:16 DL:51MiB ETA:2s]
+[#9c50ff 288MiB/366MiB(78%) CN:16 DL:50MiB ETA:1s]
+[#9c50ff 315MiB/366MiB(86%) CN:16 DL:46MiB ETA:1s]
+[#9c50ff 366MiB/366MiB(99%) CN:1 DL:47MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+9c50ff|OK  |    47MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-53.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-53.safetensors
+[#b11292 31MiB/366MiB(8%) CN:16 DL:48MiB ETA:6s]
+[#b11292 111MiB/366MiB(30%) CN:16 DL:67MiB ETA:3s]
+[#b11292 133MiB/366MiB(36%) CN:16 DL:49MiB ETA:4s]
+[#b11292 177MiB/366MiB(48%) CN:16 DL:47MiB ETA:3s]
+[#b11292 246MiB/366MiB(67%) CN:16 DL:52MiB ETA:2s]
+[#b11292 318MiB/366MiB(86%) CN:16 DL:56MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+b11292|OK  |    56MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-54.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-54.safetensors
+[#929c57 42MiB/355MiB(12%) CN:16 DL:54MiB ETA:5s]
+[#929c57 58MiB/355MiB(16%) CN:16 DL:32MiB ETA:9s]
+[#929c57 115MiB/355MiB(32%) CN:16 DL:41MiB ETA:5s]
+[#929c57 166MiB/355MiB(46%) CN:16 DL:44MiB ETA:4s]
+[#929c57 223MiB/355MiB(62%) CN:16 DL:47MiB ETA:2s]
+[#929c57 291MiB/355MiB(82%) CN:16 DL:49MiB ETA:1s]
+[#929c57 317MiB/355MiB(89%) CN:16 DL:46MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+929c57|OK  |    46MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-55.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-55.safetensors
+[#48ee13 35MiB/366MiB(9%) CN:16 DL:51MiB ETA:6s]
+[#48ee13 90MiB/366MiB(24%) CN:16 DL:53MiB ETA:5s]
+[#48ee13 181MiB/366MiB(49%) CN:16 DL:67MiB ETA:2s]
+[#48ee13 210MiB/366MiB(57%) CN:16 DL:57MiB ETA:2s]
+[#48ee13 275MiB/366MiB(75%) CN:16 DL:59MiB ETA:1s]
+[#48ee13 337MiB/366MiB(92%) CN:16 DL:59MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+48ee13|OK  |    59MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-56.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-56.safetensors
+[#346df7 41MiB/366MiB(11%) CN:16 DL:61MiB ETA:5s]
+[#346df7 106MiB/366MiB(28%) CN:16 DL:63MiB ETA:4s]
+[#346df7 115MiB/366MiB(31%) CN:16 DL:43MiB ETA:5s]
+[#346df7 183MiB/366MiB(50%) CN:16 DL:50MiB ETA:3s]
+[#346df7 236MiB/366MiB(64%) CN:16 DL:51MiB ETA:2s]
+[#346df7 293MiB/366MiB(80%) CN:16 DL:51MiB ETA:1s]
+[#346df7 350MiB/366MiB(95%) CN:16 DL:52MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+346df7|OK  |    49MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-57.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-57.safetensors
+[#fee117 43MiB/366MiB(11%) CN:16 DL:58MiB ETA:5s]
+[#fee117 89MiB/366MiB(24%) CN:16 DL:51MiB ETA:5s]
+[#fee117 147MiB/366MiB(40%) CN:16 DL:54MiB ETA:4s]
+[#fee117 207MiB/366MiB(56%) CN:16 DL:55MiB ETA:2s]
+[#fee117 237MiB/366MiB(64%) CN:16 DL:50MiB ETA:2s]
+[#fee117 337MiB/366MiB(92%) CN:16 DL:59MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+fee117|OK  |    59MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-58.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-58.safetensors
+[#154782 47MiB/355MiB(13%) CN:16 DL:69MiB ETA:4s]
+[#154782 111MiB/355MiB(31%) CN:16 DL:66MiB ETA:3s]
+[#154782 191MiB/355MiB(53%) CN:16 DL:71MiB ETA:2s]
+[#154782 218MiB/355MiB(61%) CN:16 DL:59MiB ETA:2s]
+[#154782 299MiB/355MiB(84%) CN:16 DL:64MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+154782|OK  |    63MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-59.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-59.safetensors
+[#1773bb 33MiB/366MiB(9%) CN:16 DL:47MiB ETA:7s]
+[#1773bb 76MiB/366MiB(20%) CN:16 DL:43MiB ETA:6s]
+[#1773bb 103MiB/366MiB(28%) CN:16 DL:37MiB ETA:6s]
+[#1773bb 204MiB/366MiB(55%) CN:16 DL:54MiB ETA:2s]
+[#1773bb 285MiB/366MiB(78%) CN:16 DL:60MiB ETA:1s]
+[#1773bb 356MiB/366MiB(97%) CN:16 DL:62MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+1773bb|OK  |    62MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-6.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-6.safetensors
+[#09711d 12MiB/366MiB(3%) CN:16 DL:17MiB ETA:20s]
+[#09711d 58MiB/366MiB(15%) CN:16 DL:33MiB ETA:9s]
+[#09711d 163MiB/366MiB(44%) CN:16 DL:60MiB ETA:3s]
+[#09711d 250MiB/366MiB(68%) CN:16 DL:67MiB ETA:1s]
+[#09711d 318MiB/366MiB(87%) CN:16 DL:67MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+09711d|OK  |    67MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-60.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-60.safetensors
+[#3c9ffe 7.8MiB/366MiB(2%) CN:16 DL:14MiB ETA:24s]
+[#3c9ffe 100MiB/366MiB(27%) CN:16 DL:66MiB ETA:4s]
+[#3c9ffe 159MiB/366MiB(43%) CN:16 DL:63MiB ETA:3s]
+[#3c9ffe 220MiB/366MiB(60%) CN:16 DL:62MiB ETA:2s]
+[#3c9ffe 278MiB/366MiB(76%) CN:16 DL:61MiB ETA:1s]
+[#3c9ffe 309MiB/366MiB(84%) CN:16 DL:56MiB ETA:1s]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+3c9ffe|OK  |    58MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-61.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-61.safetensors
+[#133c1c 35MiB/366MiB(9%) CN:16 DL:48MiB ETA:6s]
+[#133c1c 88MiB/366MiB(24%) CN:16 DL:50MiB ETA:5s]
+[#133c1c 146MiB/366MiB(40%) CN:16 DL:53MiB ETA:4s]
+[#133c1c 183MiB/366MiB(50%) CN:16 DL:49MiB ETA:3s]
+[#133c1c 223MiB/366MiB(60%) CN:16 DL:47MiB ETA:3s]
+[#133c1c 322MiB/366MiB(87%) CN:16 DL:56MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+133c1c|OK  |    57MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-62.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-62.safetensors
+[#30bece 19MiB/355MiB(5%) CN:16 DL:40MiB ETA:8s]
+[#30bece 65MiB/355MiB(18%) CN:16 DL:44MiB ETA:6s]
+[#30bece 93MiB/355MiB(26%) CN:16 DL:37MiB ETA:6s]
+[#30bece 178MiB/355MiB(50%) CN:16 DL:51MiB ETA:3s]
+[#30bece 261MiB/355MiB(73%) CN:16 DL:58MiB ETA:1s]
+[#30bece 321MiB/355MiB(90%) CN:16 DL:59MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+30bece|OK  |    57MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-63.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-63.safetensors
+[#37fc65 0B/0B CN:1 DL:0B]
+[#37fc65 82MiB/355MiB(23%) CN:16 DL:84MiB ETA:3s]
+[#37fc65 158MiB/355MiB(44%) CN:16 DL:80MiB ETA:2s]
+[#37fc65 212MiB/355MiB(59%) CN:16 DL:71MiB ETA:1s]
+[#37fc65 274MiB/355MiB(77%) CN:16 DL:69MiB ETA:1s]
+[#37fc65 305MiB/355MiB(86%) CN:16 DL:61MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+37fc65|OK  |    60MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-7.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-7.safetensors
+[#673cd2 34MiB/366MiB(9%) CN:16 DL:54MiB ETA:6s]
+[#673cd2 92MiB/366MiB(25%) CN:16 DL:56MiB ETA:4s]
+[#673cd2 153MiB/366MiB(41%) CN:16 DL:58MiB ETA:3s]
+[#673cd2 184MiB/366MiB(50%) CN:16 DL:50MiB ETA:3s]
+[#673cd2 230MiB/366MiB(63%) CN:16 DL:49MiB ETA:2s]
+[#673cd2 305MiB/366MiB(83%) CN:16 DL:53MiB ETA:1s]
+[#673cd2 362MiB/366MiB(98%) CN:12 DL:54MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+673cd2|OK  |    54MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-8.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-8.safetensors
+[#724ff6 35MiB/366MiB(9%) CN:16 DL:50MiB ETA:6s]
+[#724ff6 65MiB/366MiB(17%) CN:16 DL:38MiB ETA:7s]
+[#724ff6 105MiB/366MiB(28%) CN:16 DL:39MiB ETA:6s]
+[#724ff6 186MiB/366MiB(50%) CN:16 DL:50MiB ETA:3s]
+[#724ff6 239MiB/366MiB(65%) CN:16 DL:51MiB ETA:2s]
+[#724ff6 290MiB/366MiB(79%) CN:16 DL:51MiB ETA:1s]
+[#724ff6 329MiB/366MiB(89%) CN:16 DL:48MiB]
+[#724ff6 352MiB/366MiB(96%) CN:16 DL:45MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+724ff6|OK  |    45MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/layers-9.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] layers-9.safetensors
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+ab7114|OK  |    37MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/merges.txt
+
+Status Legend:
+(OK):download completed.
+[OK] merges.txt
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+f0db56|OK  |   2.5MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/model.safetensors.index.json
+
+Status Legend:
+(OK):download completed.
+[OK] model.safetensors.index.json
+[#c25d49 50MiB/455MiB(11%) CN:16 DL:66MiB ETA:6s]
+[#c25d49 130MiB/455MiB(28%) CN:16 DL:74MiB ETA:4s]
+[#c25d49 210MiB/455MiB(46%) CN:16 DL:76MiB ETA:3s]
+[#c25d49 239MiB/455MiB(52%) CN:16 DL:64MiB ETA:3s]
+[#c25d49 320MiB/455MiB(70%) CN:16 DL:67MiB ETA:1s]
+[#c25d49 427MiB/455MiB(93%) CN:16 DL:74MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+c25d49|OK  |    72MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/mtp.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] mtp.safetensors
+[#9fc795 36MiB/5.5GiB(0%) CN:16 DL:58MiB ETA:1m36s]
+[#9fc795 87MiB/5.5GiB(1%) CN:16 DL:54MiB ETA:1m43s]
+[#9fc795 132MiB/5.5GiB(2%) CN:16 DL:50MiB ETA:1m49s]
+[#9fc795 237MiB/5.5GiB(4%) CN:16 DL:66MiB ETA:1m23s]
+[#9fc795 328MiB/5.5GiB(5%) CN:16 DL:71MiB ETA:1m15s]
+[#9fc795 405MiB/5.5GiB(7%) CN:16 DL:72MiB ETA:1m13s]
+[#9fc795 485MiB/5.5GiB(8%) CN:16 DL:73MiB ETA:1m11s]
+[#9fc795 514MiB/5.5GiB(8%) CN:16 DL:67MiB ETA:1m17s]
+[#9fc795 570MiB/5.5GiB(9%) CN:16 DL:66MiB ETA:1m17s]
+[#9fc795 676MiB/5.5GiB(11%) CN:16 DL:70MiB ETA:1m11s]
+[#9fc795 761MiB/5.5GiB(13%) CN:16 DL:72MiB ETA:1m8s]
+[#9fc795 829MiB/5.5GiB(14%) CN:16 DL:76MiB ETA:1m4s]
+[#9fc795 864MiB/5.5GiB(15%) CN:16 DL:71MiB ETA:1m7s]
+[#9fc795 920MiB/5.5GiB(16%) CN:16 DL:66MiB ETA:1m12s]
+[#9fc795 1.0GiB/5.5GiB(17%) CN:16 DL:69MiB ETA:1m7s]
+[#9fc795 1.0GiB/5.5GiB(19%) CN:16 DL:70MiB ETA:1m5s]
+[#9fc795 1.1GiB/5.5GiB(20%) CN:16 DL:72MiB ETA:1m2s]
+[#9fc795 1.2GiB/5.5GiB(22%) CN:16 DL:77MiB ETA:57s]
+[#9fc795 1.2GiB/5.5GiB(22%) CN:16 DL:72MiB ETA:1m]
+[#9fc795 1.3GiB/5.5GiB(24%) CN:16 DL:69MiB ETA:1m2s]
+[#9fc795 1.4GiB/5.5GiB(26%) CN:16 DL:73MiB ETA:58s]
+[#9fc795 1.5GiB/5.5GiB(27%) CN:16 DL:75MiB ETA:55s]
+[#9fc795 1.6GiB/5.5GiB(28%) CN:16 DL:80MiB ETA:50s]
+[#9fc795 1.6GiB/5.5GiB(29%) CN:16 DL:76MiB ETA:52s]
+[#9fc795 1.6GiB/5.5GiB(30%) CN:16 DL:69MiB ETA:57s]
+[#9fc795 1.7GiB/5.5GiB(32%) CN:16 DL:73MiB ETA:53s]
+[#9fc795 1.8GiB/5.5GiB(33%) CN:16 DL:75MiB ETA:50s]
+[#9fc795 1.9GiB/5.5GiB(35%) CN:16 DL:77MiB ETA:47s]
+[#9fc795 2.0GiB/5.5GiB(36%) CN:16 DL:80MiB ETA:45s]
+[#9fc795 2.0GiB/5.5GiB(37%) CN:16 DL:73MiB ETA:48s]
+[#9fc795 2.1GiB/5.5GiB(38%) CN:16 DL:68MiB ETA:51s]
+[#9fc795 2.2GiB/5.5GiB(40%) CN:16 DL:72MiB ETA:47s]
+[#9fc795 2.3GiB/5.5GiB(41%) CN:16 DL:73MiB ETA:45s]
+[#9fc795 2.3GiB/5.5GiB(42%) CN:16 DL:78MiB ETA:41s]
+[#9fc795 2.4GiB/5.5GiB(43%) CN:16 DL:73MiB ETA:44s]
+[#9fc795 2.4GiB/5.5GiB(44%) CN:16 DL:67MiB ETA:47s]
+[#9fc795 2.5GiB/5.5GiB(46%) CN:16 DL:70MiB ETA:43s]
+[#9fc795 2.6GiB/5.5GiB(47%) CN:16 DL:71MiB ETA:41s]
+[#9fc795 2.7GiB/5.5GiB(49%) CN:16 DL:75MiB ETA:38s]
+[#9fc795 2.8GiB/5.5GiB(50%) CN:16 DL:75MiB ETA:37s]
+[#9fc795 2.8GiB/5.5GiB(51%) CN:16 DL:73MiB ETA:38s]
+[#9fc795 2.9GiB/5.5GiB(52%) CN:16 DL:69MiB ETA:39s]
+[#9fc795 3.0GiB/5.5GiB(54%) CN:16 DL:73MiB ETA:36s]
+[#9fc795 3.0GiB/5.5GiB(55%) CN:16 DL:72MiB ETA:35s]
+[#9fc795 3.1GiB/5.5GiB(56%) CN:16 DL:75MiB ETA:32s]
+[#9fc795 3.2GiB/5.5GiB(57%) CN:16 DL:75MiB ETA:32s]
+[#9fc795 3.2GiB/5.5GiB(58%) CN:16 DL:66MiB ETA:35s]
+[#9fc795 3.3GiB/5.5GiB(59%) CN:16 DL:67MiB ETA:34s]
+[#9fc795 3.4GiB/5.5GiB(60%) CN:16 DL:67MiB ETA:33s]
+[#9fc795 3.4GiB/5.5GiB(61%) CN:16 DL:67MiB ETA:32s]
+[#9fc795 3.5GiB/5.5GiB(63%) CN:16 DL:69MiB ETA:30s]
+[#9fc795 3.5GiB/5.5GiB(63%) CN:16 DL:63MiB ETA:32s]
+[#9fc795 3.6GiB/5.5GiB(64%) CN:16 DL:61MiB ETA:32s]
+[#9fc795 3.7GiB/5.5GiB(66%) CN:16 DL:63MiB ETA:29s]
+[#9fc795 3.7GiB/5.5GiB(67%) CN:16 DL:63MiB ETA:29s]
+[#9fc795 3.8GiB/5.5GiB(69%) CN:16 DL:69MiB ETA:25s]
+[#9fc795 3.9GiB/5.5GiB(70%) CN:16 DL:69MiB ETA:24s]
+[#9fc795 3.9GiB/5.5GiB(71%) CN:16 DL:63MiB ETA:25s]
+[#9fc795 4.0GiB/5.5GiB(72%) CN:16 DL:69MiB ETA:22s]
+[#9fc795 4.1GiB/5.5GiB(74%) CN:16 DL:72MiB ETA:19s]
+[#9fc795 4.1GiB/5.5GiB(74%) CN:16 DL:65MiB ETA:22s]
+[#9fc795 4.2GiB/5.5GiB(76%) CN:16 DL:72MiB ETA:18s]
+[#9fc795 4.3GiB/5.5GiB(77%) CN:16 DL:66MiB ETA:19s]
+[#9fc795 4.4GiB/5.5GiB(78%) CN:16 DL:67MiB ETA:18s]
+[#9fc795 4.5GiB/5.5GiB(80%) CN:16 DL:69MiB ETA:16s]
+[#9fc795 4.5GiB/5.5GiB(81%) CN:16 DL:69MiB ETA:15s]
+[#9fc795 4.6GiB/5.5GiB(83%) CN:16 DL:73MiB ETA:13s]
+[#9fc795 4.7GiB/5.5GiB(84%) CN:16 DL:70MiB ETA:12s]
+[#9fc795 4.7GiB/5.5GiB(85%) CN:16 DL:64MiB ETA:13s]
+[#9fc795 4.8GiB/5.5GiB(86%) CN:16 DL:77MiB ETA:9s]
+[#9fc795 4.9GiB/5.5GiB(88%) CN:16 DL:76MiB ETA:8s]
+[#9fc795 5.0GiB/5.5GiB(89%) CN:16 DL:76MiB ETA:7s]
+[#9fc795 5.0GiB/5.5GiB(91%) CN:16 DL:80MiB ETA:6s]
+[#9fc795 5.1GiB/5.5GiB(91%) CN:16 DL:73MiB ETA:6s]
+[#9fc795 5.1GiB/5.5GiB(92%) CN:16 DL:71MiB ETA:5s]
+[#9fc795 5.2GiB/5.5GiB(94%) CN:16 DL:74MiB ETA:4s]
+[#9fc795 5.3GiB/5.5GiB(96%) CN:16 DL:74MiB ETA:3s]
+[#9fc795 5.4GiB/5.5GiB(97%) CN:16 DL:76MiB ETA:1s]
+[#9fc795 5.5GiB/5.5GiB(98%) CN:16 DL:72MiB ETA:1s]
+[#9fc795 5.5GiB/5.5GiB(99%) CN:16 DL:72MiB]
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+9fc795|OK  |    71MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/outside.safetensors
+
+Status Legend:
+(OK):download completed.
+[OK] outside.safetensors
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+1dceee|OK  |    42KiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/preprocessor_config.json
+
+Status Legend:
+(OK):download completed.
+[OK] preprocessor_config.json
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+116ed9|OK  |       0B/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/safetensors-md5sum.txt
+
+Status Legend:
+(OK):download completed.
+[OK] safetensors-md5sum.txt
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+14802a|OK  |    33MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/tokenizer.json
+
+Status Legend:
+(OK):download completed.
+[OK] tokenizer.json
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+81893b|OK  |   427KiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/tokenizer_config.json
+
+Status Legend:
+(OK):download completed.
+[OK] tokenizer_config.json
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+9b95df|OK  |    41KiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/video_preprocessor_config.json
+
+Status Legend:
+(OK):download completed.
+[OK] video_preprocessor_config.json
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+f6bbc7|OK  |    29MiB/s|/root/autodl-tmp/models/qwen3.8-27b-fp8/vocab.json
+
+Status Legend:
+(OK):download completed.
+[OK] vocab.json
