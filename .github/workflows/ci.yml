@@ -14,3 +14,5 @@ jobs:
       - run: pip install -e . pytest
       - run: python -m pytest tests -q
       - run: python -m spectuner.cli selftest
+        env:
+          SPECTUNER_RESULTS_ROOT: ${{ github.workspace }}/benchmarks
