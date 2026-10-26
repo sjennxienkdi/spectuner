@@ -35,8 +35,8 @@ spectuner selftest
 ```
 
 在仓库内（未安装）：`PYTHONPATH=. python -m spectuner.cli <cmd>`。
-测试：`python -m pytest tests`（20 项：接受率模型 / 成本模型恢复 / 推荐
-判据 / confirm 矩阵真值回归）。
+测试：`python -m pytest tests`（21 项：接受率模型 / 成本模型恢复 / 推荐
+判据 / confirm 矩阵真值回归；以 CI 实跑为准）。
 
 ## 架构
 
@@ -87,7 +87,7 @@ total throughput 当解码性能的坑，见 B1 博客）。
 
 ## 已验证 / 未验证
 
-- ✅ 22 项离线测试；真实 confirm 矩阵上推荐 = c1/c16 K=3、c64 关投机，
+- ✅ 21 项离线测试（CI 实跑口径）；真实 confirm 矩阵上推荐 = c1/c16 K=3、c64 关投机，
   与人工结论一致（A2_L0 82.9 的异常优势作为参照臂保留）
 - ✅ **2026-10-25 GPU 首测全绿**（`results/probe_st_20261025/`）：端到端
   8m04s（预算 15min）；TPOT 预测 MAPE 8.8%（验收 ≤20%）；探针 measured
@@ -107,7 +107,7 @@ total throughput 当解码性能的坑，见 B1 博客）。
 | PRO 6000 96GB（FP8） | K=3 +60% | K=3 +32% | 关投机 | benchmarks/confirm |
 | 4090 魔改 48G（FP8，cu129 构建*） | K=3 +62% | **K=1 +12%** | 关投机 | benchmarks/4090 |
 | 4090 魔改 48G（INT4，cu129 构建*） | **K=1 仅+8%** | 关投机 | 关投机 | benchmarks/4090 |
-| 5090D 32G（INT4） | K=7 +13% | **关投机（DSpark 雪崩 −95%）** | 关投机 | benchmarks/5090d |
+| 5090D 32G（INT4） | MTP K=3 +23.1%（DSpark 锚点仅 +12.9%） | **关投机（DSpark 雪崩 −95%）** | 关投机 | benchmarks/5090d |
 
 三个跨硬件实证：PRO 6000 上的单流之王 INT4 配方在 4090 上几乎无利可图；
 DSpark drafter 在 32G 消费卡 c16+ 排队熔断（TTFT 飙至 167-748s）；4090 饱和时
